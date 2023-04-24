@@ -16,4 +16,4 @@
 - [ ] get a nice fulfilling job
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${matschi3}.${matschi3}&left_color=red&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${matschi3}.${matschi3}&left_color=green&right_color=red)
