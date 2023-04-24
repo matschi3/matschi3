@@ -1,7 +1,8 @@
 # Nice to have you here!
 ### matschi3 // Nils Fischer
-> In best age of 30, 
-> getting out of gastronomy right into a new world of coding!
+> In best age of 30; 
+> Getting out of gastronomy cause it no longer tastes good to me, going right into a new world of coding
+> So from now on you probably will see me like this
 
 ![gif image - computer typing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
