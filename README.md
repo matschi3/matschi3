@@ -10,7 +10,7 @@
 - [x] signup for Bootcamp
 - [x] learn and practice to code
 - [x] learn more
-- [pending] practice more
+- [ ] practice more
 - [ ] accomplish Bootcamp
 - [ ] practice even more
 - [ ] get a nice fulfilling job
