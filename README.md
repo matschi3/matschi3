@@ -8,9 +8,9 @@
 ---
 ### ToDo's ###
 - [x] signup for Bootcamp
-- [ ] learn and practice to code
-- [ ] learn more
-- [ ] practice more
+- [x] learn and practice to code
+- [x] learn more
+- [pending] practice more
 - [ ] accomplish Bootcamp
 - [ ] practice even more
 - [ ] get a nice fulfilling job
