@@ -1,8 +1,7 @@
 # Nice to have you here!
-### matschi3 // Nils Fischer
-> In best age of 30 - 
-> Getting out of work in gastronomy, cause it no longer tastes good to me; going right into a new world of coding.
-> So from now on you probably will see me like this:
+### matschi3 // Nils Fischer [ Frontend Developer ]
+> Immersed into an always changing cosmos of coding. Looking forward to bring in my solution-oriented way of working and my skills to achieve customer satisfaction. In love with OpenSource and getting connected to like-minded.
+Still loving fine dining.
 
 ![gif image - computer typing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 ---
