@@ -1,5 +1,18 @@
-# Nice to have you here!
-### matschi3 // Nils Fischer [ Frontend Developer ]
+<h1 align="center">Hi 👋, I'm Nils</h1>
+<h3 align="center">Frontend developer based in beautiful Bonn</h3>
+
+
+- 🔭 I’m currently working on **expanding my skills**
+
+- 🌱 I’m currently learning **more Frameworks, more REST API**
+
+- 💬 Ask me about **modern responsive web**
+
+- ⚡ Fun fact **Nice to have you here**, thanks
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 ---
