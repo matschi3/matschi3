@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **modern responsive web**
 
-- ⚡ Fun fact **Nice to have you here**, thanks
+- ⚡ Fun fact: **Nice to have you here**, thanks
 
 
 ---
