@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nils</h1>
-<h3 align="center">Frontend developer based in beautiful Bonn</h3>
+<h3 align="center">Web developer based in beautiful Bonn</h3>
 
 
-- 🔭 I’m currently working on **expanding my skills**
+- 🔭 I’m alwaysy working on **expanding my skills**
 
-- 🌱 I’m currently learning **more Frameworks, more REST API**
+- 🌱 I’m currently building a **more complex API and Site**
 
 - 💬 Ask me about **modern responsive web**
 
