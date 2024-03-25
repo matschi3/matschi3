@@ -2,9 +2,9 @@
 <h3 align="center">Web developer based in beautiful Bonn</h3>
 
 
-- 🔭 I’m alwaysy working on **expanding my skills**
+- 🔭 I’m always working on **expanding my skills**
 
-- 🌱 I’m currently building a **more complex API and Site**
+- 🌱 I’m currently building a **more complex API and Web-App**
 
 - 💬 Ask me about **modern responsive web**
 
