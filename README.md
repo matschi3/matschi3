@@ -4,7 +4,7 @@
 
 - 🔭 I’m always working on **expanding my skills**
 
-- 🌱 I’m currently building an **online MaFo—Tool for a Magazine**
+- 🌱 I’m currently building an **warehouse and ordering tool**
 
 - 💬 Ask me about **building a development server on a VPS**
 
